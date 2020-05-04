@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'league-spartan';
+    src:  url('./LeagueSpartan-Bold.otf');
+}
+
+
+.red {
+    font: 32px 'league-spartan';
+    color: red;
+}
